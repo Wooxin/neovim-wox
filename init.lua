@@ -1,0 +1,6 @@
+require('options')
+require('keymaps')
+require('plugins')
+require('lsp')
+require('nvim-tree')
+require('bufferline')
